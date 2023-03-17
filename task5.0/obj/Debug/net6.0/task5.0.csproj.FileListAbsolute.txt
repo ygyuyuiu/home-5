@@ -1,0 +1,15 @@
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/task5.0.csproj.AssemblyReference.cache
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/task5.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/task5.0.AssemblyInfoInputs.cache
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/task5.0.AssemblyInfo.cs
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/task5.0.csproj.CoreCompileInputs.cache
+/Users/egornagorny/Desktop/home5/task5.0/bin/Debug/net6.0/task5.0
+/Users/egornagorny/Desktop/home5/task5.0/bin/Debug/net6.0/task5.0.deps.json
+/Users/egornagorny/Desktop/home5/task5.0/bin/Debug/net6.0/task5.0.runtimeconfig.json
+/Users/egornagorny/Desktop/home5/task5.0/bin/Debug/net6.0/task5.0.dll
+/Users/egornagorny/Desktop/home5/task5.0/bin/Debug/net6.0/task5.0.pdb
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/task5.0.dll
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/refint/task5.0.dll
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/task5.0.pdb
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/task5.0.genruntimeconfig.cache
+/Users/egornagorny/Desktop/home5/task5.0/obj/Debug/net6.0/ref/task5.0.dll
